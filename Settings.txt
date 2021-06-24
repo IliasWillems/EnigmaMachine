@@ -1,0 +1,10 @@
+Rotor	type	position
+Rotor1	1	0
+Rotor2	2	0
+Rotor3	3	0
+
+Plugboard
+a-c,d-p,e-m,g-q,y-k,i-j
+
+Reflector
+0-5,1-16,2-3,4-20,6-18,7-19,8-10,9-13,14-17,15-21,22-25,23-24
